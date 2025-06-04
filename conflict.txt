@@ -1,2 +1,3 @@
 Hello class!
 lets start a conflict
+line three for the main branch
